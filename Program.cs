@@ -22,7 +22,7 @@ namespace SQL_query
 
                 builder.DataSource = "gullman99.database.windows.net";
                 builder.UserID = "gullman99";
-                builder.Password = "E@bch6969";
+                builder.Password = "password";
                 builder.InitialCatalog = "my database";
 
                 using (SqlConnection connection = new SqlConnection(builder.ConnectionString))
