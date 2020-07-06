@@ -27,7 +27,7 @@
 # mydb = mysql.connector.connect(
 #   host="gullman99.database.windows.net",
 #   user="gullman99",
-#   passwd="E@bch6969",
+#   passwd="password",
 #   database="my database"
 # )
 
